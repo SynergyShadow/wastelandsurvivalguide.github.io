@@ -52,7 +52,7 @@ If you don't know how to install a mod manually, refer to the [instructions in t
   - Keybinds:
     - [x] WASD Compatible
 
-### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001?tab=files&file_id=1000141508&nmm=1)
+### [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001)
 
 Hand-made up-scaled and cleaned recreations of many vanilla HUD elements.
 
@@ -124,7 +124,8 @@ A complete high-resolution and more detailed rework of the Tale of Two Wasteland
 
 #### Installation:
 
-- Choose the options in the FOMOD installer matching your monitor's resolution. 2k Texture Resolution is recommended.
+- Main File - Main Menu Redone - TTW - AIO
+  - Choose the options in the FOMOD installer matching your monitor's resolution. 2k Texture Resolution is recommended.
 
 ### [Quick Select - A Zelda BOTW Style Quick Menu](https://www.nexusmods.com/newvegas/mods/82249)
 
@@ -136,9 +137,14 @@ Adds high-quality quick select menus for weapons and items. Dramatically improve
 - Main File - [Quick Select - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000137712&nmm=1)
   - Remaps the hotkeys for weapons to 1 and aid to 3. Disables throwables in favor of B42 Quickthrow.
  
-### [B42 Notify - Corner Messages Overhaul](https://www.nexusmods.com/newvegas/mods/80085)
+### [ELMO](https://www.nexusmods.com/newvegas/mods/94708)
 
-Changes the corner notifications to improve readability. Multiple messages appear simultaneously and fade out as newer ones appear.
+replaces the game's vanilla corner messages with a highly configurable notification system. Every message that would normally appear in the top-left corner - item pickups, karma changes, reputation shifts, crippled limbs, critical hits - now displays through ELMO with smooth animations, colour coding, custom icons, and granular control over timing and appearance.
+
+#### Installation:
+
+- Main File - ELMO
+- Main File - [ELMO - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000176294nmm=1)
 
 ### [High Res Local Maps](https://www.nexusmods.com/newvegas/mods/77963)
 
@@ -244,6 +250,10 @@ Replaces text labels next to condition meters with ySI icons, which change dynam
 
 Sharper, clearer screens for terminals, Pip-Boy, and other screens.
 
+#### Installation:
+
+- Main File - High Resolution Screens
+
 ### [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966)
 
 This is a faithful recreation of the Vault Boy Paper Doll, which appears when taking damage or in the Condition menu in your Pip-Boy. Also fixes some alignment issues.
@@ -319,7 +329,7 @@ Colorful UI icons will retain their look regardless of interface tint. Also incl
     - [x] Bottlecaps
     - [x] Doors
     - [x] UI Prompts
-  - Colorful Icons - Doors
+  - Colorful Icons - Map
     - [x] Doors
   - Optional:
     - [ ] ySI - JSON Patcher
@@ -330,7 +340,7 @@ Various high-quality Pip-Boy icons.
 
 #### Installation:
 
-- Main File - [1. Consistent Pip-boy Icons](https://www.nexusmods.com/newvegas/mods/65046)
+- Main File - [Consistent Pip-boy Icons v4](https://www.nexusmods.com/newvegas/mods/65046)
 - Main File - [Consistent Pip-Boy Icons v5 - Items](https://www.nexusmods.com/newvegas/mods/82074)
 - Main File - [Consistent Pip-Boy Icons v5 - Weapons](https://www.nexusmods.com/newvegas/mods/82740)
 - Main File - [Consistent Pip-Boy Icons v5 - Apparel](https://www.nexusmods.com/newvegas/mods/83248)

@@ -3,7 +3,13 @@
 `Put one foot in front of the other...~`
 
 ---
-## 05/5/2026
+## 06/08/2026
+
+### User Interface & HUD
+- Replaced B42 Notify With ELMO
+- Added ELMO - Custom INI
+
+## 05/05/2026
 
 ### User Interface & HUD
 - Added Companion Wheel Extender - ESPless
@@ -20,7 +26,7 @@
 - Updated Mojave Wildlife
 - Added Mojave Wildlife - Custom INI
 
-## 03/1/2026
+## 03/01/2026
 
 ### Extra Utilities & Fixes
 - Added Depth Resolve
