@@ -3,6 +3,16 @@
 `Put one foot in front of the other...~`
 
 ---
+## 06/21/2026
+
+### Combat
+- Replaced Melee Hitstop Effects with Melee Hit Stop (ESPless)
+
+## 06/20/2026
+ 
+### Overhauls
+- Added TTW Perk Overhaul - ySI - Colorful Icons Patch
+
 ## 06/08/2026
 
 ### User Interface & HUD
