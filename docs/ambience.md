@@ -12,11 +12,15 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 
 :::tip Why the small selection of texture, lighting, animation, and audio mods?
 Many of these mods are out of the scope of this guide, and as such we have only included those that we feel are critical or highly impactful. For an extensive guide on these types of mods, check out [SALVO 2](https://www.nexusmods.com/newvegas/mods/95649). Support for SALVO 2 is provided on [The Wasteland Supplemental](https://discord.gg/JcbZGDeMmC).
-
-Skip Simply Upscaled Grass, and Contrasted LOD Noise Texture If using SALVO 2
+ 
+If you are planning on using [SALVO 2](https://www.nexusmods.com/newvegas/mods/95649), you can skip [Contrasted LOD Noise Texture](#contrasted-lod-noise-texture) and [Simply Upscaled Grass](#simply-upscaled-grass)
 :::
 
 ## Visual Improvements
+
+### [Impostors and LOD Flicker Fix - ESPLess](https://www.nexusmods.com/newvegas/mods/92372)
+
+Fixes Z-flickering by changing the model path of various imposter meshes to be blank.
 
 ### [Contrasted LOD Noise Texture](https://www.nexusmods.com/newvegas/mods/85898)
 
@@ -87,7 +91,7 @@ Allows for manual repositioning of the gun and crosshair. **Required** for multi
 
 ### [Weapon Based Hands Clip Distance](https://www.nexusmods.com/newvegas/mods/82093)
 
-Allows for manual repositioning of the players hand clip distance.
+Allows for manual repositioning of the player's hand clip distance.
 
 :::important Instructions:
 - Hold the aim button and press right alt. Alternatively, if adjusting clip distance while your weapon is at the hip, simply press right alt.
@@ -385,7 +389,7 @@ Modernized ambient soundscape with an object based directional sound system. Est
 #### Installation:
 
 - Main File - ATMOS Ambience Overhaul - Master - Hi-Fi
-- Main File - ATMOS DLC Overhaul Part I
+- Main File - ATMOS DLC Overhaul Part I and II
 - Optional File - ATMOS Ambience Overhaul - AWOP Revision
 - Main File - [ATMOS NV - TTW Patch](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000130990&nmm=1)
 

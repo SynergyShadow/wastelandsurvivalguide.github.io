@@ -3,6 +3,38 @@
 `Put one foot in front of the other...~`
 
 ---
+## 07/11/2026
+
+### LOD
+- Added Trooper's Much Needed Lod Patch, for uncut merge
+- Updated Pregen LOD
+ 
+## 07/09/2026
+
+### Extra Utilities & Fixes
+- Added hNVSE
+
+### Aesthetics & Ambience
+- Added ATMOS DLC Overhaul Part I and II
+
+## 07/02/2026 (NOT MID-SAVE-SAFE)
+
+### User Interface & HUD
+- Updated ELMO - Custom INI
+
+### Content
+- Replaced Goodies With Troopers Uncut Merge
+- Removed Goodies Patches
+
+### Aesthetics & Ambience
+- Added Impostors and LOD Flicker Fix - ESPless
+
+### LOD
+- Updated Pregen Lod
+ 
+### Finish
+- Updated load order
+
 ## 06/21/2026
 
 ### Combat

@@ -10,6 +10,10 @@ import RadioButtonUncheckedIcon from '@mui/icons-material/RadioButtonUnchecked';
 - Right-click the empty space in the left pane of MO2 and select **Create separator**.
 - Name the separator **LOD**.
 
+:::tip
+If you are planning on using [SALVO 2](https://www.nexusmods.com/newvegas/mods/95649), you can skip this page.
+:::
+
 If you don't use all of the terrain altering mods from the [Content](content) section, you should follow the instructions on the [VNV LOD guide](https://vivanewvegas.moddinglinked.com/lod.html) for generating your own LOD.
 
 If you are using all of those mods, then you can use our pre-generated LOD by following these instructions.
@@ -22,6 +26,7 @@ All of the following mods are **REQUIRED**:
 
 - Main File - Much Needed LOD
   - Delete `MuchNeededLOD.esp` and the `meshes\effects\` folder.
+- Optional File - [Much Needed LOD Patch](https://www.nexusmods.com/newvegas/mods/95700?tab=files&file_id=1000177832&nmm=1)
 
 ### [Much Needed LOD fixed rocks color](https://www.nexusmods.com/newvegas/mods/81524)
 
@@ -103,6 +108,6 @@ All of the following mods are **REQUIRED**:
 Do not install the following files if you plan to generate your own LOD.
 :::
 
-### [WSG Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000172099&nmm=1)
+### [WSG Terrain LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000177839&nmm=1)
 
-### [WSG Object LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000172100&nmm=1)
+### [WSG Object LOD](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000177838&nmm=1)

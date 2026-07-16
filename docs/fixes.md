@@ -20,11 +20,15 @@ A script extender plugin that adds many new functions, required by some of the m
 
 Another script extender plugin that adds new functions to the game. 
 
+### [hNVSE](https://www.nexusmods.com/newvegas/mods/85748)
+ 
+Script extender expanding the game's scripting capabilities, allowing modders to create more complex and advanced modifications.
+
 ### [ITR NVSE](https://www.nexusmods.com/newvegas/mods/96922)
 
 Script extender featuring new commands and event handlers, bug fixes and tweaks.
 
-### [ITR NVSE - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000174252&nmm=1)
+### [ITR NVSE - Custom INI](https://www.nexusmods.com/newvegas/mods/79005?tab=files&file_id=1000177445&nmm=1)
 
 Custom INI for ITR NVSE
 
